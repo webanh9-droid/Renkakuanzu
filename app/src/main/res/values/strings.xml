@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WebViewApp</string>
+
+    <!-- GANTI URL DI SINI -->
+    <string name="target_url">https://renkaku.pages.dev</string>
+</resources>
